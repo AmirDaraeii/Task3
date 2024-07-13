@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IvaTask3</string>
+    <string name="count_10th">count 10th :</string>
+    <string name="_0">0</string>
+    <string name="count_10th_20th_30th">count 10th , 20th, 30th :</string>
+    <string name="count_all_keywords_upper_lower_case">count all keywords upper/ lower case:</string>
+</resources>
